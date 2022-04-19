@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    hw2_2_9();
+    hw5_3();
     return 0;
 }
