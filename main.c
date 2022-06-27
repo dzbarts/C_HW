@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    hw5_3();
+    linked_list();
     return 0;
 }
